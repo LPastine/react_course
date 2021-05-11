@@ -66,3 +66,11 @@ Functional component snippet
 ```zsh
 racf
 ```
+
+## React Router
+
+Install React Router
+
+```zsh
+npm i react-router-dom
+```
